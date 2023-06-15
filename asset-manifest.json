@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/SF_SCAN_project/static/css/main.fee6718a.css",
+    "main.js": "/SF_SCAN_project/static/js/main.e3f47f12.js",
+    "static/media/LinkToSearch.svg": "/SF_SCAN_project/static/media/LinkToSearch.165cd9a87b99688bd004369099230805.svg",
+    "static/media/scan-logo.svg": "/SF_SCAN_project/static/media/scan-logo.925464617bddeb512f22cfff8fea4743.svg",
+    "static/media/logo-white.svg": "/SF_SCAN_project/static/media/logo-white.80e93cecc0cb690afb555636a1ac898e.svg",
+    "static/media/Ferry-Black.eot": "/SF_SCAN_project/static/media/Ferry-Black.49a7388dcb2ce51cda59.eot",
+    "static/media/Ferry-Black.ttf": "/SF_SCAN_project/static/media/Ferry-Black.5360f215b842ff11440a.ttf",
+    "static/media/search-bg.svg": "/SF_SCAN_project/static/media/search-bg.a25c1b9df7c5046eb8b34131433af78a.svg",
+    "static/media/authBack.svg": "/SF_SCAN_project/static/media/authBack.8375cb216e6878be8864b5ae536b66fa.svg",
+    "static/media/Ferry-Black.woff": "/SF_SCAN_project/static/media/Ferry-Black.fc929522c5bc436a4ca3.woff",
+    "static/media/OurAdvantage.svg": "/SF_SCAN_project/static/media/OurAdvantage.e29d789daa4e817f756509f8affd0efc.svg",
+    "static/media/resultPage.svg": "/SF_SCAN_project/static/media/resultPage.6e7e2aef66ec51120ceaec145ea0e94c.svg",
+    "static/media/lock.svg": "/SF_SCAN_project/static/media/lock.a6528caf57d4da5d92d78ac84f2a0412.svg",
+    "static/media/Costs1.svg": "/SF_SCAN_project/static/media/Costs1.c01c2c7da8c137a7fdeed239a1356637.svg",
+    "static/media/Costs2.svg": "/SF_SCAN_project/static/media/Costs2.5b43d255e45f2fb7ea655ea99541e7d7.svg",
+    "static/media/folders.svg": "/SF_SCAN_project/static/media/folders.730c68c5574cbd07a6f9ba318de734e2.svg",
+    "static/media/facebook.svg": "/SF_SCAN_project/static/media/facebook.b31ff561f45ec18e1e170707e93d2cf5.svg",
+    "static/media/list-mark.svg": "/SF_SCAN_project/static/media/list-mark.3635a2dabe67866fd059b81429ad95b4.svg",
+    "static/media/carousel3.svg": "/SF_SCAN_project/static/media/carousel3.765b84f17e6eed57ef25bb48e44d3e38.svg",
+    "static/media/carousel2.svg": "/SF_SCAN_project/static/media/carousel2.2a321e8cb2247eb118076734b3febd88.svg",
+    "static/media/loading.svg": "/SF_SCAN_project/static/media/loading.df54e1d19f2dd21ded1a9d17b8fe5bcf.svg",
+    "static/media/google.svg": "/SF_SCAN_project/static/media/google.b233cfdc5526452c7dcd15c2b52ac715.svg",
+    "static/media/document.svg": "/SF_SCAN_project/static/media/document.cb1d5414d02f5662784b9f602c3efbf2.svg",
+    "static/media/carousel1.svg": "/SF_SCAN_project/static/media/carousel1.1fac99ab9c899850347b676d26527f23.svg",
+    "static/media/yandex.svg": "/SF_SCAN_project/static/media/yandex.86aded1df9386becc1f0dff16c0e2129.svg",
+    "static/media/Costs3.svg": "/SF_SCAN_project/static/media/Costs3.b393734b56d17a4fc32f8f18f681d8b4.svg",
+    "static/media/rightArrow.svg": "/SF_SCAN_project/static/media/rightArrow.ffebd281e5d2ed75191d55711763641b.svg",
+    "static/media/userLogo.svg": "/SF_SCAN_project/static/media/userLogo.f3b5123459c143cabbb592266e70f4dd.svg",
+    "index.html": "/SF_SCAN_project/index.html",
+    "static/media/burger-logo-white.svg": "/SF_SCAN_project/static/media/burger-logo-white.fbd0882706ee709534e354cab15732dd.svg",
+    "static/media/burger-logo.svg": "/SF_SCAN_project/static/media/burger-logo.b1d41bc2090f80153135e35a1f3f58c5.svg",
+    "static/media/dropdownIcon.svg": "/SF_SCAN_project/static/media/dropdownIcon.76881d548b982a41539ba47551f265c3.svg",
+    "main.fee6718a.css.map": "/SF_SCAN_project/static/css/main.fee6718a.css.map",
+    "main.e3f47f12.js.map": "/SF_SCAN_project/static/js/main.e3f47f12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fee6718a.css",
+    "static/js/main.e3f47f12.js"
+  ]
+}
