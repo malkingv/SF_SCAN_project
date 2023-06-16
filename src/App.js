@@ -13,6 +13,9 @@ import store from "./store/store";
 import {Provider, useSelector} from "react-redux";
 import DefaultPage from "./Views/DefaultPage";
 
+useEffect(() => {
+    alert('Клиентская часть сервиса состоит из: главной страницы, формы авторизации, формы для ввода параметров запроса, страницы с выводом результатов запроса. Остальные страницы в данной работе не были предусмотрены для реализации.')
+}, [])
 
 function RequireAuth({ children, redirectTo }) {
     const state = useSelector((state) => state)
