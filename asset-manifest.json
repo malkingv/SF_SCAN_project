@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SF_SCAN_project/static/css/main.fee6718a.css",
-    "main.js": "/SF_SCAN_project/static/js/main.299417fb.js",
+    "main.js": "/SF_SCAN_project/static/js/main.884b735d.js",
     "static/media/scan-logo.svg": "/SF_SCAN_project/static/media/scan-logo.925464617bddeb512f22cfff8fea4743.svg",
     "static/media/LinkToSearch.png": "/SF_SCAN_project/static/media/LinkToSearch.7c782486d73513734e13.png",
     "static/media/logo-white.svg": "/SF_SCAN_project/static/media/logo-white.80e93cecc0cb690afb555636a1ac898e.svg",
@@ -33,10 +33,10 @@
     "static/media/burger-logo.svg": "/SF_SCAN_project/static/media/burger-logo.b1d41bc2090f80153135e35a1f3f58c5.svg",
     "static/media/dropdownIcon.svg": "/SF_SCAN_project/static/media/dropdownIcon.76881d548b982a41539ba47551f265c3.svg",
     "main.fee6718a.css.map": "/SF_SCAN_project/static/css/main.fee6718a.css.map",
-    "main.299417fb.js.map": "/SF_SCAN_project/static/js/main.299417fb.js.map"
+    "main.884b735d.js.map": "/SF_SCAN_project/static/js/main.884b735d.js.map"
   },
   "entrypoints": [
     "static/css/main.fee6718a.css",
-    "static/js/main.299417fb.js"
+    "static/js/main.884b735d.js"
   ]
 }
